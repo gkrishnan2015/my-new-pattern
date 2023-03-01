@@ -17,7 +17,7 @@ clusterGroup:
       channel: release-2.6
       #csv: advanced-cluster-management.v2.6.1
 
-amq-streams:
+    amq-streams:
       name: amq-streams
       namespace: lab-kafka
 
